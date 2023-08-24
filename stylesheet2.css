@@ -1,0 +1,18 @@
+body{
+    color:#3b368c;
+    text-align: center;
+}
+
+.title{
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+.copyright{
+    border-top: 1px rgb(226, 226, 226) solid;
+    margin-top: 70vw;
+    font-size: 0.8em;
+    height: 40px;
+    padding-top: 40px;
+    text-align: center;
+}
